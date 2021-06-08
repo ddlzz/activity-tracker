@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files psalm-version="4.7.3@38c452ae584467e939d55377aaf83b5a26f19dd1">
+  <file src="src/Kernel.php">
+    <MixedOperand occurrences="3">
+      <code>$this-&gt;environment</code>
+      <code>$this-&gt;environment</code>
+      <code>$this-&gt;environment</code>
+    </MixedOperand>
+  </file>
+</files>
